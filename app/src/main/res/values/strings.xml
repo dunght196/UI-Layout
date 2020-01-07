@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UI-Layout</string>
+    <string name="long_text">Millionaire Bruce Wayne was just a kid when he watched his parents get gunned down during a mugging in Gotham City.
+             The crime would define his life, as he dedicated himself to becoming the world’s greatest weapon against crime—the Batman.
+              Forget his Batarangs, Batmobile, or Utility Belt filled with high-tech weapons.
+             Batman is the most feared superhero of all, because he’s pushed himself to the absolute pinnacle of human achievement.
+            He’s a brilliant detective who’s mastered fighting techniques the world’s barely heard of.
+            An Olympic-caliber athlete with a plan for every occasion,
+              Batman’s seemingly always five steps ahead of his foes.
+                 But in his crusade against injustice, two questions always loom:
+           How far will he go to protect the innocent, and will he sacrifice his humanity along the way?</string>
+
+    <string name="short_text">Millionaire Bruce Wayne was just a kid when he watched his parents get gunned down during a mugging in Gotham City.
+             The crime would define his life, as he dedicated himself to becoming the world’s greatest weapon against crime—the Batman.
+              Forget his Batarangs, Batmobile, or Utility Belt filled with high-tech weapons.
+             Batman is the most feared superhero of all, because he’s pushed himself to the absolute pinnacle of human achievement.?</string>
+</resources>
